@@ -1,0 +1,9 @@
+{
+  "steam_app": 4754530,
+  "steam_depot": 4754532,
+  "steam_manifest": "6252913279158604722",
+  "game_version": "2162777-0-shipping",
+  "operator_version": "v1.7.0",
+  "postgres_version": "17.4-alpine-fc-13"
+}
+

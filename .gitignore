@@ -1,0 +1,15 @@
+.idea/
+.tools/
+.work/
+reports/
+downloads/
+data/
+*.tar
+*.tar.gz
+*.zip
+*.manifest
+__pycache__/
+.env
+auth.json
+config.json
+*.log
